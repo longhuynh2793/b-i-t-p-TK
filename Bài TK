@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài Tập t</title>\
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./themify-icons/themify-icons.css">
+    
+</head>
+<body>
+    <!-- bai 1 start -->
+    <p class="phude">Bài 1 </p>
+    <div class="logo-tt">
+        <img src="./img/logo-vt.jpg" alt="" class="logo-ava">
+        <h1 class="logo-name">Viettien</h1>
+        <p class="logo-content">Công Ty Cổ Phần May <a href=#" class="name-in">Việt Tiến </a></p>
+        <p>Chuyên cung cấp các loại trang phụch công sở Nam, Nữ </p>
+    </div>
+    <div class="buton-tt">
+        <button class="button-nam ">Nam  </button>
+        <button class="button-nu">Nữ </button>
+    </div>
+    
+    <!-- Bai so 2 -->
+
+    <p class="phude">Bài 2 </p>
+    <h2 class="text">Các tag phổ biến</h2>
+    <div class="tag-text">
+        <p class="text-in-tag">HTML</p>
+        <p class="text-in-tag">CSS</p>
+        <p class="text-in-tag">Java Script</p>
+        <p class="text-in-tag">jquery</p>
+        <p class="text-in-tag">web design</p>
+    </div>
+    <div class="tag-text">
+        <p class="text-in-tag">django</p>
+        <p class="text-in-tag">python</p>
+        <p class="text-in-tag">machine learning </p>
+        <p class="text-in-tag">data science</p>
+    </div>
+    <div class="clear"></div>
+    <!-- Bai so 3 -->
+    <p class="phude">Bài 3 </p>
+    <div class="tra-sang">
+        <h2 class="contenttra">Hãy cùng khám phá những lợi ích sức khỏe tuyệt vời của trà gừng</h2>
+       <img src="./img/tra-gung-co-tac-dung-giai-cam.jpg" alt="" class="img-tragung">
+    <h4 class="content-tragung">Uống trà gừng hàng ngày là cách tuyệt vời để bạn chăm sóc và bảo vệ sức khỏe khỏi các bệnh tật </h4>
+    </div>
+   <div class="box-1">
+    <p class="content-box-1">
+        Trà gừng cay và nóng, vì vậy mà nó là lọai thức uống tuyệt vời trong ngày lạnh thay cho cà phê. Tuy nhiên, trà gừng còn hơn cả là một loại thức uống bình thường vì nó có rất nhiều tác dụng với sức khỏe. Hãy cùng khám phá những lợi ích sức khỏe tuyệt vời của trà gừng.
+    </p>
+   </div>
+   <div class="box-2">
+    <ul>
+        <li class="list-tra">Đẩy lùi cảm giác buồn nôn </li>
+        <li class="list-tra">Hỗ trợ hệ thống tiêu hóa </li>
+        <li class="list-tra">Chiến đấu với tình trạng chuột rút </li>
+        <li class="list-tra">Chữa bệnh cảm lạnh thông thường </li>
+        <li class="list-tra">Điều trị chứng đau nữa đầu </li>
+        <li class="list-tra">Chữa bệnh hôi miệng</li>
+        <li class="list-tra">Giảmn đau và chống viêm nhiễm </li>
+    </ul>
+   <button class="more-button">Đọc thêm...</button> 
+   </div>
+
+
+    <!-- Bai so 4 -->
+    <p class="phude">Bài 4 </p>
+    <div class="box-contact">
+        <div class="modal-close">
+            <i class="ti-close"></i>
+        </div>
+    <p><i class="ti-email"></i></p>
+    <h1 class="invite-contact">Gửi lời mời tham gia sự kiện </h1>
+    <p class="support-contact">Hãy nhập e-mail người mà bạn muốn gửi lời mời</p>
+    <input type="email" class="modal-mail" placeholder="Enter email">
+    <button class="modal-send">Gửi lời mời!</button>
+
+    </div>
+
+    <!-- Bai so 5 -->
+    <p class="phude">Bài 5 </p>
+    <div class="contact-coffe">
+        <h1 class="header-1">Cơ hội chỉ đến với bạn một lần duy nhất</h1>
+        <h3 class="content-coffe">Bạn sẽ nhận ưu đã TỐT NHẤT nếu là thành viên của TRUNG NGUYÊN coffe</h3>
+        <button class="modal-contact">Đăng ký tham gia </button>
+
+    </div>
+
+     <!-- Bai so 6 -->
+
+     <p class="phude">Bài 6 </p>
+
+    <div class="list-total">
+        <div class="icon">
+            <i class="ti-user"></i>
+            <i class="ti-heart"></i>
+            <i class="ti-home"></i>
+            <i class="ti-world"></i>
+        </div>
+    </div>
+    <div class="name-total">
+        <div class="name-list">
+            <div class="name">2000</div>
+            <div class="name">1K</div>
+            <div class="name">92%</div>
+            <div class="name">18</div>
+        </div>
+        <div class="clear"></div>
+    
+    </div>
+       
+   
+   
+    
+    <div class="clear"></div>
+    
+    
+   
+
+    
+    
+
+  
+   
+</body>
+</html>
